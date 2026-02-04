@@ -1,0 +1,3 @@
+[submodule "projects/2026-dvopm"]
+	path = projects/2026-dvopm
+	url = git@github.com:TheDeanLab/2026-dvopm.git
