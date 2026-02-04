@@ -1,0 +1,12 @@
+# OS
+.DS_Store
+
+# JetBrains
+.idea/
+
+# VS Code
+.vscode/
+
+# Python (if you ever drop helper scripts here)
+__pycache__/
+*.pyc
