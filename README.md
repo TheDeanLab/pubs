@@ -16,9 +16,9 @@ The winning pattern: “text in Git, PDFs everywhere”
 ## Repository layout
 ```
 pubs/
-  project1/              # submodule (one repo per grant/paper)
-  project2/              # submodule
-  project3/              # submodule
+  projecs/              # submodule (one repo per grant/paper)
+  	project1/              # submodule
+  	project2/              # submodule
   templates/             # templates for new grants/paper
   style/                 # optional: shared voice/rules/exemplars (non-sensitive)
 ```
