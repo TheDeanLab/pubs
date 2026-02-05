@@ -1,3 +1,6 @@
 [submodule "projects/2026-dvopm"]
 	path = projects/2026-dvopm
 	url = git@github.com:TheDeanLab/2026-dvopm.git
+[submodule "templates/latex-writing-template"]
+	path = templates/latex-writing-template
+	url = git@github.com:TheDeanLab/latex-writing-template.git
