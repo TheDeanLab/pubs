@@ -4,3 +4,6 @@
 [submodule "templates/latex-writing-template"]
 	path = templates/latex-writing-template
 	url = git@github.com:TheDeanLab/latex-writing-template.git
+[submodule "projects/2026-star-protocols"]
+	path = projects/2026-star-protocols
+	url = git@github.com:TheDeanLab/2026-star-protocols.git
