@@ -11,5 +11,5 @@
 	path = projects/2026-DPNI
 	url = https://github.com/TheDeanLab/2026-DPNI.git
 [submodule "2026-high-na-ctaslm"]
-	path = 2026-high-na-ctaslm
+	path = projects/2026-high-na-ctaslm
 	url = git@github.com:TheDeanLab/2026-high-na-ctaslm.git
