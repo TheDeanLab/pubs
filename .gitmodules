@@ -16,3 +16,6 @@
 [submodule "projects/2026-robotics"]
 	path = projects/2026-robotics
 	url = git@github.com:TheDeanLab/2026-robotics.git
+[submodule "projects/2026-exm-opm"]
+	path = projects/2026-exm-opm
+	url = git@github.com:TheDeanLab/2026-exm-opm.git
